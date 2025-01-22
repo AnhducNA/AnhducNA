@@ -1,6 +1,4 @@
-## Hi there 👋
-<br/>
-<h1 align="center">Hi 👋, I'm Bassel Gamal <br/>
+<h1 align="center">Hi 👋, I'm Duc <br/>
   <font size="4" color='lime'>Nodejs developer </font>
 </h1>
 <br/>
