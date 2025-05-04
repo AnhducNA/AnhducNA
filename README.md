@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duc <br/>
-  <font size="4" color='lime'>Nodejs developer </font>
+  <font size="4" color='lime'>BackEnd developer </font>
 </h1>
 <br/>
 
